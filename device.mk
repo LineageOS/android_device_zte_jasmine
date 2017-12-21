@@ -220,4 +220,5 @@ PRODUCT_COPY_FILES += \
 # FM radio
 PRODUCT_PACKAGES += \
     FMRadio \
-    libfmjni
+    libfmjni \
+    init.qcom.fm.sh

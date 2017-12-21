@@ -271,6 +271,9 @@ vendor/lib/libQSEEComAPI.so
 # Fingerprint
 vendor/lib64/hw/gatekeeper.msm8952.so
 
+# FM Radio
+bin/fm_qsoc_patches
+
 # Graphics
 vendor/lib64/egl/eglSubDriverAndroid.so
 vendor/lib64/egl/libEGL_adreno.so
