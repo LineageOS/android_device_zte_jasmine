@@ -277,4 +277,6 @@
 
     <bool name="config_useDevInputEventForAudioJack">true</bool>
 
+    <bool name="config_lidControlsSleep">true</bool>
+
 </resources>
