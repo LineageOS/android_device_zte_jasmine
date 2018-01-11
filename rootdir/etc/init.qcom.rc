@@ -308,6 +308,8 @@ service audiod /system/bin/audiod
 
 service charger /charger
     class charger
+    group graphics system
+    seclabel u:r:healthd:s0
 
 service cnd /system/bin/cnd
     class late_start
